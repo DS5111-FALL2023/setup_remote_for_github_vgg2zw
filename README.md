@@ -46,3 +46,7 @@ user.email=efrainolivaresuva@gmail.com
     - checks out one of your repositories, that would fully set up your remote for going straight to work on a new machine.
     - completes the setup by remotely installing `make` and the python env package that was missing
     - **OR** anything you find useful... load data you would use in a project, take the next step and trigger a makefile in a cloned repo to setup the python virtual environment, etc etc.
+
+<img width="670" alt="Screenshot 2023-11-22 at 11 20 43 AM" src="https://github.com/DS5111-FALL2023/setup_remote_for_github_vgg2zw/assets/72715900/c1b9cddd-c325-4971-b8fc-42dbb79afc09">
+
+
